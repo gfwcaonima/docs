@@ -10,49 +10,49 @@
 
 Gcore CDN:
 
-[cfa-2.5.9-foss-arm64-v8a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-arm64-v8a-release.apk)
+[cfa-2.5.12-foss-arm64-v8a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-arm64-v8a-release.apk)
 
-[cfa-2.5.9-foss-armeabi-v7a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-armeabi-v7a-release.apk)
+[cfa-2.5.12-foss-armeabi-v7a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-armeabi-v7a-release.apk)
 
-[cfa-2.5.9-foss-universal-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-universal-release.apk)
+[cfa-2.5.12-foss-universal-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-universal-release.apk)
 
-[cfa-2.5.9-foss-x86_64-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-x86_64-release.apk)
+[cfa-2.5.12-foss-x86_64-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-x86_64-release.apk)
 
-[cfa-2.5.9-foss-x86-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-x86-release.apk)
+[cfa-2.5.12-foss-x86-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-x86-release.apk)
 
-[cfa-2.5.9-premium-arm64-v8a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-arm64-v8a-release.apk)
+[cfa-2.5.12-premium-arm64-v8a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-arm64-v8a-release.apk)
 
-[cfa-2.5.9-premium-armeabi-v7a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-armeabi-v7a-release.apk)
+[cfa-2.5.12-premium-armeabi-v7a-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-armeabi-v7a-release.apk)
 
-[cfa-2.5.9-premium-universal-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-universal-release.apk)
+[cfa-2.5.12-premium-universal-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-universal-release.apk)
 
-[cfa-2.5.9-premium-x86_64-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-x86_64-release.apk)
+[cfa-2.5.12-premium-x86_64-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-x86_64-release.apk)
 
-[cfa-2.5.9-premium-x86-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-x86-release.apk)
+[cfa-2.5.12-premium-x86-release.apk](https://gcore.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-x86-release.apk)
 
 ---
 
 Cloudflare R2:
 
-[cfa-2.5.9-foss-arm64-v8a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-arm64-v8a-release.apk)
+[cfa-2.5.12-foss-arm64-v8a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-arm64-v8a-release.apk)
 
-[cfa-2.5.9-foss-armeabi-v7a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-armeabi-v7a-release.apk)
+[cfa-2.5.12-foss-armeabi-v7a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-armeabi-v7a-release.apk)
 
-[cfa-2.5.9-foss-universal-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-universal-release.apk)
+[cfa-2.5.12-foss-universal-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-universal-release.apk)
 
-[cfa-2.5.9-foss-x86_64-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-x86_64-release.apk)
+[cfa-2.5.12-foss-x86_64-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-x86_64-release.apk)
 
-[cfa-2.5.9-foss-x86-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-foss-x86-release.apk)
+[cfa-2.5.12-foss-x86-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-foss-x86-release.apk)
 
-[cfa-2.5.9-premium-arm64-v8a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-arm64-v8a-release.apk)
+[cfa-2.5.12-premium-arm64-v8a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-arm64-v8a-release.apk)
 
-[cfa-2.5.9-premium-armeabi-v7a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-armeabi-v7a-release.apk)
+[cfa-2.5.12-premium-armeabi-v7a-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-armeabi-v7a-release.apk)
 
-[cfa-2.5.9-premium-universal-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-universal-release.apk)
+[cfa-2.5.12-premium-universal-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-universal-release.apk)
 
-[cfa-2.5.9-premium-x86_64-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-x86_64-release.apk)
+[cfa-2.5.12-premium-x86_64-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-x86_64-release.apk)
 
-[cfa-2.5.9-premium-x86-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.9-premium-x86-release.apk)
+[cfa-2.5.12-premium-x86-release.apk](https://cfr2.ihategfw.live/Android/ClashForAndroid/cfa-2.5.12-premium-x86-release.apk)
 
 ---
 
